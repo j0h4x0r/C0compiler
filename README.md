@@ -10,10 +10,15 @@ A compiler for a subset of C.
 
 ## Front End
 
-* Top-down parsing
-* One time scan
+* top-down parsing
+* one time scan
 
 ## Optimization
 
-* Local optimization
+* local optimization
 * DAG-based optimization
+
+## Back End
+
+* produce X86 assembly
+* Windows binary
